@@ -1,13 +1,14 @@
 /* ---------------------------------------------------------------------------
-WYConsole Theme
-Version 1.1
-Created by @Satchelmouth 
+WYConsole Theme_modified
+Version 0.0
+Created by @Satchelmouth
+Modified by @noiseWizard
 
-Buy me a coffee:
+Go buy Satchelmouth a coffee (they did all the hard work):
 https://www.buymeacoffee.com/Satchelmouth
 
 Readme:
-A theme for obsidian based on Computer Consoles in popular 80s Sci-fi films
+A theme for obsidian based on Computer Consoles in popular 80s Sci-fi films.
 -----------------------------------------------------------------------------
 Copyright (c) 2020-2022 Thomas Chase (@Satchelmouth)
 
@@ -29,15 +30,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 -----------------------------------------------------------------------------
-
-/* SUPPORTED FEATURES
-* Dark and Light Mode
-* All panels, menus, and buttons have been looked at
-* Most popular community plugins supported
-
-/* SUPPORTED PLUGINS
-* Advanced Tables
-* Kanban
-* Calendar
-* File Tree Alternative Plugin
-*/
